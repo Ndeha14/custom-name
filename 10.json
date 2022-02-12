@@ -1,0 +1,82 @@
+{
+  "name": "The Crunches #10",
+  "symbol": "Crunches",
+  "description": "777 Crunches have invaded the laboratory. With their power, it is possible to make them evolve. Attributes and powers are to be earned throughout the adventure. On the program: Private sales with discounts up to 50%, Staking, customization and leveling mechanism, ...",
+  "seller_fee_basis_points": 800,
+  "image": "10.png",
+  "external_url": "",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Horns",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Element's Mastery",
+      "value": "Level 0"
+    },
+    {
+      "trait_type": "Crunch Level",
+      "value": "Level 0"
+    },
+    {
+      "trait_type": "Luck power",
+      "value": "Level 0"
+    },
+    {
+      "trait_type": "Strenght power",
+      "value": "Level 0"
+    },
+    {
+      "trait_type": "Charisma power",
+      "value": "Level 0"
+    },
+    {
+      "trait_type": "Agility power",
+      "value": "Level 0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "10.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DT5uA9ZxsXGUBz3yeG48Lzbnr9ixod7b1GbbFzdR77Nw",
+        "share": 33
+      },
+      {
+        "address": "EgQeXiJdP3GxyAmp4s5QmkmiyuMWwECoJoL5f3KajHwJ",
+        "share": 33
+      },
+      {
+        "address": "9RKemo2ymLxTi1314iArHk9cCgvK6vEkoJt1abm4tU7q",
+        "share": 34
+      }
+    ]
+  }
+}
